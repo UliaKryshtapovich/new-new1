@@ -4,4 +4,6 @@ newproject
 function sayBay () {
     alert ('goodbye from git');
 }
-
+function work (){
+    alert ('work, work')
+}

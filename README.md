@@ -1,9 +1,9 @@
-# first largest 
+# First largest 
 ## The second largest heading
 ###### The smallest heading
-> ***hello world it is my first task***
+> ***it is my ~~first~~ second task***
 
-### about markdown 
+### About markdown 
 
 * Markdown’s syntax is intended for one purpose: to be used as a format for writing for the web.
 

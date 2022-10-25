@@ -5,4 +5,10 @@
 
 ### about markdown 
 
-**To create a nested list in the comment editor on GitHub, which doesn't use a monospaced font, you can look at the list item immediately _above the nested list_ and count the number of characters that appear before the content of the item. Then type that number of space characters in front of the nested list item**
+*Markdown’s syntax is intended for one purpose: to be used as a format for writing for the web.
+
+*For any markup that is not covered by Markdown’s syntax, you simply use HTML itself. There’s no need to preface it or delimit it to indicate that you’re switching from Markdown to HTML; you just use the tags.
+
+*Note that Markdown formatting syntax is not processed within block-level HTML tags. E.g., you can’t use Markdown-style *emphasis* inside an HTML block.
+
+

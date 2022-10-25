@@ -11,7 +11,7 @@
 
 * Note that Markdown formatting syntax is not processed within block-level HTML tags. E.g., you can’t use Markdown-style *emphasis* inside an HTML block.
 
-![markdown logo](https://plugins.jetbrains.com/files/14097/165316/icon/pluginIcon.png)
+to push `here`
 
 this text is from [link](https://www.markdownguide.org/getting-started/) 
 
